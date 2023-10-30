@@ -3,7 +3,7 @@ A miscellaneous bundle of scripts with limited or general use.
 
 I'll add some context for the scripts below when necessary. 
 
-# SimpleIlluminaCovCalc
+# SimpleIlluminaCovCalc.R
 
 Sometime recently Illumina removed a really helpful coverage calculator tool from their support site. Technically it is still there, but it is now restricted to only kits which they sell and you cannot change all parameters. With some HTML editing I'm sure you could get it working again but I was in a rush so came up with an alternative calculator in R. I might re-write it in python also. 
 
